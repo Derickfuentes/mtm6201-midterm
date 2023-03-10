@@ -435,7 +435,6 @@ table th {
 		margin-top: -10px;
 	}
 
-	/* styling footer */
 	.copyright {
 		grid-area: copy;
 		text-align: center;
@@ -455,7 +454,6 @@ table th {
 	padding: 5px;
   }
   
-  /* Clearfix (clear floats) */
   .row::after {
 	content: "";
 	clear: both;
@@ -490,7 +488,6 @@ table th {
   		margin-right: auto;
 	  }
 
-	  /* Clearfix (clear floats) */
 	  .row2::after {
 		content: "";
 		clear: both;
